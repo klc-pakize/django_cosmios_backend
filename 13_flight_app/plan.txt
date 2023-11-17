@@ -1,0 +1,18 @@
+- Flight
+- Reservation
+- Passenger
+
+# Flight
+ - Client
+    - Views (upcoming Flight)
+ - Staff Members 
+    - Views (all Flight)
+    - CRUD 
+
+
+# Reservation
+ - Client
+    - CRUD (their own Reservation)
+ - Staff Members
+    - CRUD (all Reservation)
+ 
